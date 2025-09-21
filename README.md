@@ -59,8 +59,8 @@ Top 5 Customers: SELECT Customer_ID, COUNT(Booking_ID) FROM bookings GROUP BY Cu
 
 
 Snap Shots of Dashboards -- 
-https://github.com/AYU3117/OLA-DA-POJECT/blob/main/Snapshots%201.png
-https://github.com/AYU3117/OLA-DA-POJECT/blob/main/Snapshots%202.png
-https://github.com/AYU3117/OLA-DA-POJECT/blob/main/Snapshots%203.png
-https://github.com/AYU3117/OLA-DA-POJECT/blob/main/Snapshots%20%204.png
-https://github.com/AYU3117/OLA-DA-POJECT/blob/main/Snapshots%205.png
+https://github.com/AYU3117/OLA-DA-POJECT/blob/main/Snapshots%201.png,
+https://github.com/AYU3117/OLA-DA-POJECT/blob/main/Snapshots%202.png,
+https://github.com/AYU3117/OLA-DA-POJECT/blob/main/Snapshots%203.png,
+https://github.com/AYU3117/OLA-DA-POJECT/blob/main/Snapshots%20%204.png,
+https://github.com/AYU3117/OLA-DA-POJECT/blob/main/Snapshots%205.png,
